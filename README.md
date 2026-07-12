@@ -1,14 +1,8 @@
 # Directory
-## [LLM base knowledge](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/LLM_base.md)
-## [RAG (retrieval-augmented generation)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RAG.pdf)
-## [Agent](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/Agent.pdf)  
-## [LLM pretrain and sft](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/pretrain_sft.md)
-## [VLM (vision language model)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/VLM.pdf)
-## [RL (reinforcement learning)](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/RL.md)
+## [See here](https://github.com/TuuSiwei/A-file-A-knowledge/blob/main/LLM_base.md)
 
 # Contact
-Email: tusiwei@hunnu.edu.cn
+Email: ```tusiwei@hunnu.edu.cn``` or  ```sway@humanify.io```
 
 # Note
-Use markdown editor to view.
 For learning purposes only. Do not use for any commercial profit.
